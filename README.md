@@ -1,7 +1,7 @@
 
 # System Programming Practice – C
 
-This repository contains basic C programs demonstrating key system programming concepts:  
+This repository contains basic C programs demonstrating key system programming concepts:
 
 - 🧵 Threads
 - 🔐 Mutex

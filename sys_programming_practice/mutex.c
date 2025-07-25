@@ -9,7 +9,7 @@ for(int i=0;i<3000000;i++){
 pthread_mutex_lock(&mutex);
 counter++;
 pthread_mutex_unlock(&mutex);
-}
+} 
 return NULL;
 }
 int main(){
